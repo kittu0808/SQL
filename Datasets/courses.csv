@@ -1,0 +1,301 @@
+course_id,course_name,department,duration_months,fee
+1,Computer Science Course 1,Computer Science,24,85000
+2,Computer Science Course 2,Computer Science,12,40000
+3,Computer Science Course 3,Computer Science,3,60000
+4,Computer Science Course 4,Computer Science,12,60000
+5,Computer Science Course 5,Computer Science,6,40000
+6,Computer Science Course 6,Computer Science,6,85000
+7,Information Technology Course 1,Information Technology,24,40000
+8,Information Technology Course 2,Information Technology,12,15000
+9,Information Technology Course 3,Information Technology,3,15000
+10,Information Technology Course 4,Information Technology,12,60000
+11,Information Technology Course 5,Information Technology,6,85000
+12,Information Technology Course 6,Information Technology,12,85000
+13,Electronics Course 1,Electronics,3,85000
+14,Electronics Course 2,Electronics,12,60000
+15,Electronics Course 3,Electronics,6,40000
+16,Electronics Course 4,Electronics,6,85000
+17,Electronics Course 5,Electronics,24,60000
+18,Electronics Course 6,Electronics,12,15000
+19,Mechanical Engineering Course 1,Mechanical Engineering,12,15000
+20,Mechanical Engineering Course 2,Mechanical Engineering,24,60000
+21,Mechanical Engineering Course 3,Mechanical Engineering,3,60000
+22,Mechanical Engineering Course 4,Mechanical Engineering,24,15000
+23,Mechanical Engineering Course 5,Mechanical Engineering,3,25000
+24,Mechanical Engineering Course 6,Mechanical Engineering,3,15000
+25,Civil Engineering Course 1,Civil Engineering,12,25000
+26,Civil Engineering Course 2,Civil Engineering,3,85000
+27,Civil Engineering Course 3,Civil Engineering,12,40000
+28,Civil Engineering Course 4,Civil Engineering,3,85000
+29,Civil Engineering Course 5,Civil Engineering,6,25000
+30,Civil Engineering Course 6,Civil Engineering,3,85000
+31,Electrical Engineering Course 1,Electrical Engineering,3,25000
+32,Electrical Engineering Course 2,Electrical Engineering,12,40000
+33,Electrical Engineering Course 3,Electrical Engineering,24,25000
+34,Electrical Engineering Course 4,Electrical Engineering,24,40000
+35,Electrical Engineering Course 5,Electrical Engineering,12,25000
+36,Electrical Engineering Course 6,Electrical Engineering,6,60000
+37,Mathematics Course 1,Mathematics,3,15000
+38,Mathematics Course 2,Mathematics,24,15000
+39,Mathematics Course 3,Mathematics,24,25000
+40,Mathematics Course 4,Mathematics,3,60000
+41,Mathematics Course 5,Mathematics,24,60000
+42,Mathematics Course 6,Mathematics,12,60000
+43,Physics Course 1,Physics,6,85000
+44,Physics Course 2,Physics,6,85000
+45,Physics Course 3,Physics,24,15000
+46,Physics Course 4,Physics,12,40000
+47,Physics Course 5,Physics,24,40000
+48,Physics Course 6,Physics,24,25000
+49,Chemistry Course 1,Chemistry,6,15000
+50,Chemistry Course 2,Chemistry,3,40000
+51,Chemistry Course 3,Chemistry,6,60000
+52,Chemistry Course 4,Chemistry,6,40000
+53,Chemistry Course 5,Chemistry,24,85000
+54,Chemistry Course 6,Chemistry,24,25000
+55,Biology Course 1,Biology,12,25000
+56,Biology Course 2,Biology,24,85000
+57,Biology Course 3,Biology,6,15000
+58,Biology Course 4,Biology,12,85000
+59,Biology Course 5,Biology,12,15000
+60,Biology Course 6,Biology,24,15000
+61,Commerce Course 1,Commerce,3,40000
+62,Commerce Course 2,Commerce,6,60000
+63,Commerce Course 3,Commerce,12,15000
+64,Commerce Course 4,Commerce,6,60000
+65,Commerce Course 5,Commerce,24,15000
+66,Commerce Course 6,Commerce,24,25000
+67,Management Course 1,Management,24,40000
+68,Management Course 2,Management,3,60000
+69,Management Course 3,Management,3,85000
+70,Management Course 4,Management,3,85000
+71,Management Course 5,Management,6,60000
+72,Management Course 6,Management,3,40000
+73,Economics Course 1,Economics,12,40000
+74,Economics Course 2,Economics,3,85000
+75,Economics Course 3,Economics,3,85000
+76,Economics Course 4,Economics,24,85000
+77,Economics Course 5,Economics,24,60000
+78,Economics Course 6,Economics,12,15000
+79,English Course 1,English,6,60000
+80,English Course 2,English,6,60000
+81,English Course 3,English,12,40000
+82,English Course 4,English,3,25000
+83,English Course 5,English,3,85000
+84,English Course 6,English,12,25000
+85,History Course 1,History,12,60000
+86,History Course 2,History,3,25000
+87,History Course 3,History,6,60000
+88,History Course 4,History,12,60000
+89,History Course 5,History,3,40000
+90,History Course 6,History,6,40000
+91,Political Science Course 1,Political Science,12,25000
+92,Political Science Course 2,Political Science,24,25000
+93,Political Science Course 3,Political Science,24,85000
+94,Political Science Course 4,Political Science,12,40000
+95,Political Science Course 5,Political Science,6,85000
+96,Political Science Course 6,Political Science,12,15000
+97,Geography Course 1,Geography,24,85000
+98,Geography Course 2,Geography,3,40000
+99,Geography Course 3,Geography,3,40000
+100,Geography Course 4,Geography,6,25000
+101,Geography Course 5,Geography,6,60000
+102,Geography Course 6,Geography,6,25000
+103,Psychology Course 1,Psychology,24,40000
+104,Psychology Course 2,Psychology,12,15000
+105,Psychology Course 3,Psychology,3,85000
+106,Psychology Course 4,Psychology,3,15000
+107,Psychology Course 5,Psychology,6,85000
+108,Psychology Course 6,Psychology,6,25000
+109,Sociology Course 1,Sociology,6,60000
+110,Sociology Course 2,Sociology,12,15000
+111,Sociology Course 3,Sociology,6,40000
+112,Sociology Course 4,Sociology,24,25000
+113,Sociology Course 5,Sociology,24,60000
+114,Sociology Course 6,Sociology,12,40000
+115,Statistics Course 1,Statistics,12,40000
+116,Statistics Course 2,Statistics,24,60000
+117,Statistics Course 3,Statistics,24,25000
+118,Statistics Course 4,Statistics,6,15000
+119,Statistics Course 5,Statistics,24,25000
+120,Statistics Course 6,Statistics,6,15000
+121,Data Science Course 1,Data Science,6,15000
+122,Data Science Course 2,Data Science,12,85000
+123,Data Science Course 3,Data Science,6,25000
+124,Data Science Course 4,Data Science,3,60000
+125,Data Science Course 5,Data Science,24,15000
+126,Data Science Course 6,Data Science,12,15000
+127,Artificial Intelligence Course 1,Artificial Intelligence,3,60000
+128,Artificial Intelligence Course 2,Artificial Intelligence,12,85000
+129,Artificial Intelligence Course 3,Artificial Intelligence,12,60000
+130,Artificial Intelligence Course 4,Artificial Intelligence,6,85000
+131,Artificial Intelligence Course 5,Artificial Intelligence,12,85000
+132,Artificial Intelligence Course 6,Artificial Intelligence,24,15000
+133,Machine Learning Course 1,Machine Learning,6,60000
+134,Machine Learning Course 2,Machine Learning,24,85000
+135,Machine Learning Course 3,Machine Learning,6,40000
+136,Machine Learning Course 4,Machine Learning,24,60000
+137,Machine Learning Course 5,Machine Learning,12,15000
+138,Machine Learning Course 6,Machine Learning,6,40000
+139,Cyber Security Course 1,Cyber Security,3,60000
+140,Cyber Security Course 2,Cyber Security,3,60000
+141,Cyber Security Course 3,Cyber Security,24,25000
+142,Cyber Security Course 4,Cyber Security,3,85000
+143,Cyber Security Course 5,Cyber Security,24,40000
+144,Cyber Security Course 6,Cyber Security,3,40000
+145,Cloud Computing Course 1,Cloud Computing,12,60000
+146,Cloud Computing Course 2,Cloud Computing,3,60000
+147,Cloud Computing Course 3,Cloud Computing,12,85000
+148,Cloud Computing Course 4,Cloud Computing,24,15000
+149,Cloud Computing Course 5,Cloud Computing,24,60000
+150,Cloud Computing Course 6,Cloud Computing,24,85000
+151,DevOps Course 1,DevOps,6,40000
+152,DevOps Course 2,DevOps,6,85000
+153,DevOps Course 3,DevOps,6,25000
+154,DevOps Course 4,DevOps,6,25000
+155,DevOps Course 5,DevOps,6,40000
+156,DevOps Course 6,DevOps,24,15000
+157,Software Engineering Course 1,Software Engineering,6,60000
+158,Software Engineering Course 2,Software Engineering,3,85000
+159,Software Engineering Course 3,Software Engineering,24,60000
+160,Software Engineering Course 4,Software Engineering,12,60000
+161,Software Engineering Course 5,Software Engineering,6,25000
+162,Software Engineering Course 6,Software Engineering,3,40000
+163,Business Analytics Course 1,Business Analytics,24,85000
+164,Business Analytics Course 2,Business Analytics,3,85000
+165,Business Analytics Course 3,Business Analytics,24,85000
+166,Business Analytics Course 4,Business Analytics,6,60000
+167,Business Analytics Course 5,Business Analytics,6,15000
+168,Business Analytics Course 6,Business Analytics,24,15000
+169,Finance Course 1,Finance,24,60000
+170,Finance Course 2,Finance,3,25000
+171,Finance Course 3,Finance,24,60000
+172,Finance Course 4,Finance,3,25000
+173,Finance Course 5,Finance,24,40000
+174,Finance Course 6,Finance,3,25000
+175,Marketing Course 1,Marketing,12,15000
+176,Marketing Course 2,Marketing,3,15000
+177,Marketing Course 3,Marketing,6,40000
+178,Marketing Course 4,Marketing,6,60000
+179,Marketing Course 5,Marketing,12,15000
+180,Marketing Course 6,Marketing,6,85000
+181,Human Resources Course 1,Human Resources,12,25000
+182,Human Resources Course 2,Human Resources,24,60000
+183,Human Resources Course 3,Human Resources,12,25000
+184,Human Resources Course 4,Human Resources,12,40000
+185,Human Resources Course 5,Human Resources,6,40000
+186,Human Resources Course 6,Human Resources,3,60000
+187,Operations Course 1,Operations,3,25000
+188,Operations Course 2,Operations,6,40000
+189,Operations Course 3,Operations,6,85000
+190,Operations Course 4,Operations,6,60000
+191,Operations Course 5,Operations,6,15000
+192,Operations Course 6,Operations,12,85000
+193,Supply Chain Course 1,Supply Chain,12,25000
+194,Supply Chain Course 2,Supply Chain,6,15000
+195,Supply Chain Course 3,Supply Chain,24,85000
+196,Supply Chain Course 4,Supply Chain,12,15000
+197,Supply Chain Course 5,Supply Chain,6,85000
+198,Supply Chain Course 6,Supply Chain,24,60000
+199,Law Course 1,Law,12,40000
+200,Law Course 2,Law,3,85000
+201,Law Course 3,Law,3,25000
+202,Law Course 4,Law,6,85000
+203,Law Course 5,Law,6,25000
+204,Law Course 6,Law,6,40000
+205,Architecture Course 1,Architecture,12,60000
+206,Architecture Course 2,Architecture,24,25000
+207,Architecture Course 3,Architecture,12,25000
+208,Architecture Course 4,Architecture,3,60000
+209,Architecture Course 5,Architecture,24,15000
+210,Architecture Course 6,Architecture,12,40000
+211,Media Studies Course 1,Media Studies,12,25000
+212,Media Studies Course 2,Media Studies,24,60000
+213,Media Studies Course 3,Media Studies,24,40000
+214,Media Studies Course 4,Media Studies,6,85000
+215,Media Studies Course 5,Media Studies,6,40000
+216,Media Studies Course 6,Media Studies,6,25000
+217,Journalism Course 1,Journalism,6,40000
+218,Journalism Course 2,Journalism,24,25000
+219,Journalism Course 3,Journalism,24,25000
+220,Journalism Course 4,Journalism,24,85000
+221,Journalism Course 5,Journalism,6,25000
+222,Journalism Course 6,Journalism,24,15000
+223,Animation Course 1,Animation,3,85000
+224,Animation Course 2,Animation,12,60000
+225,Animation Course 3,Animation,3,60000
+226,Animation Course 4,Animation,3,60000
+227,Animation Course 5,Animation,12,25000
+228,Animation Course 6,Animation,6,40000
+229,Design Course 1,Design,24,60000
+230,Design Course 2,Design,24,40000
+231,Design Course 3,Design,6,40000
+232,Design Course 4,Design,6,60000
+233,Design Course 5,Design,12,85000
+234,Design Course 6,Design,3,25000
+235,Hospitality Course 1,Hospitality,3,40000
+236,Hospitality Course 2,Hospitality,3,85000
+237,Hospitality Course 3,Hospitality,3,85000
+238,Hospitality Course 4,Hospitality,6,15000
+239,Hospitality Course 5,Hospitality,6,60000
+240,Hospitality Course 6,Hospitality,6,15000
+241,Agriculture Course 1,Agriculture,12,40000
+242,Agriculture Course 2,Agriculture,6,85000
+243,Agriculture Course 3,Agriculture,24,85000
+244,Agriculture Course 4,Agriculture,6,85000
+245,Agriculture Course 5,Agriculture,3,25000
+246,Agriculture Course 6,Agriculture,3,60000
+247,Veterinary Science Course 1,Veterinary Science,12,60000
+248,Veterinary Science Course 2,Veterinary Science,12,15000
+249,Veterinary Science Course 3,Veterinary Science,3,25000
+250,Veterinary Science Course 4,Veterinary Science,12,85000
+251,Veterinary Science Course 5,Veterinary Science,6,85000
+252,Veterinary Science Course 6,Veterinary Science,3,40000
+253,Environmental Science Course 1,Environmental Science,3,60000
+254,Environmental Science Course 2,Environmental Science,6,40000
+255,Environmental Science Course 3,Environmental Science,24,15000
+256,Environmental Science Course 4,Environmental Science,12,60000
+257,Environmental Science Course 5,Environmental Science,6,85000
+258,Environmental Science Course 6,Environmental Science,24,15000
+259,Food Technology Course 1,Food Technology,24,40000
+260,Food Technology Course 2,Food Technology,6,40000
+261,Food Technology Course 3,Food Technology,6,85000
+262,Food Technology Course 4,Food Technology,6,15000
+263,Food Technology Course 5,Food Technology,3,60000
+264,Food Technology Course 6,Food Technology,24,15000
+265,Pharmacy Course 1,Pharmacy,12,60000
+266,Pharmacy Course 2,Pharmacy,24,40000
+267,Pharmacy Course 3,Pharmacy,6,85000
+268,Pharmacy Course 4,Pharmacy,3,15000
+269,Pharmacy Course 5,Pharmacy,6,60000
+270,Pharmacy Course 6,Pharmacy,3,15000
+271,Nursing Course 1,Nursing,24,15000
+272,Nursing Course 2,Nursing,3,40000
+273,Nursing Course 3,Nursing,3,15000
+274,Nursing Course 4,Nursing,12,15000
+275,Nursing Course 5,Nursing,24,25000
+276,Nursing Course 6,Nursing,6,60000
+277,Medicine Course 1,Medicine,24,85000
+278,Medicine Course 2,Medicine,3,40000
+279,Medicine Course 3,Medicine,3,40000
+280,Medicine Course 4,Medicine,3,25000
+281,Medicine Course 5,Medicine,3,25000
+282,Medicine Course 6,Medicine,12,25000
+283,Dentistry Course 1,Dentistry,12,15000
+284,Dentistry Course 2,Dentistry,12,60000
+285,Dentistry Course 3,Dentistry,6,60000
+286,Dentistry Course 4,Dentistry,3,85000
+287,Dentistry Course 5,Dentistry,24,40000
+288,Dentistry Course 6,Dentistry,3,25000
+289,Education Course 1,Education,12,85000
+290,Education Course 2,Education,24,60000
+291,Education Course 3,Education,6,25000
+292,Education Course 4,Education,3,60000
+293,Education Course 5,Education,24,15000
+294,Education Course 6,Education,24,40000
+295,Research Course 1,Research,3,60000
+296,Research Course 2,Research,24,15000
+297,Research Course 3,Research,24,60000
+298,Research Course 4,Research,3,40000
+299,Research Course 5,Research,6,60000
+300,Research Course 6,Research,24,40000

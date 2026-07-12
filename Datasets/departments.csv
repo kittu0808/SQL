@@ -1,0 +1,51 @@
+department_id,department_name,hod_name,building
+1,Computer Science,Dr. HOD 1,Block A
+2,Information Technology,Dr. HOD 2,Block B
+3,Electronics,Dr. HOD 3,Block C
+4,Mechanical Engineering,Dr. HOD 4,Block D
+5,Civil Engineering,Dr. HOD 5,Block E
+6,Electrical Engineering,Dr. HOD 6,Block F
+7,Mathematics,Dr. HOD 7,Block G
+8,Physics,Dr. HOD 8,Block H
+9,Chemistry,Dr. HOD 9,Block I
+10,Biology,Dr. HOD 10,Block J
+11,Commerce,Dr. HOD 11,Block K
+12,Management,Dr. HOD 12,Block L
+13,Economics,Dr. HOD 13,Block M
+14,English,Dr. HOD 14,Block N
+15,History,Dr. HOD 15,Block O
+16,Political Science,Dr. HOD 16,Block P
+17,Geography,Dr. HOD 17,Block Q
+18,Psychology,Dr. HOD 18,Block R
+19,Sociology,Dr. HOD 19,Block S
+20,Statistics,Dr. HOD 20,Block T
+21,Data Science,Dr. HOD 21,Block U
+22,Artificial Intelligence,Dr. HOD 22,Block V
+23,Machine Learning,Dr. HOD 23,Block W
+24,Cyber Security,Dr. HOD 24,Block X
+25,Cloud Computing,Dr. HOD 25,Block Y
+26,DevOps,Dr. HOD 26,Block Z
+27,Software Engineering,Dr. HOD 27,Block A
+28,Business Analytics,Dr. HOD 28,Block B
+29,Finance,Dr. HOD 29,Block C
+30,Marketing,Dr. HOD 30,Block D
+31,Human Resources,Dr. HOD 31,Block E
+32,Operations,Dr. HOD 32,Block F
+33,Supply Chain,Dr. HOD 33,Block G
+34,Law,Dr. HOD 34,Block H
+35,Architecture,Dr. HOD 35,Block I
+36,Media Studies,Dr. HOD 36,Block J
+37,Journalism,Dr. HOD 37,Block K
+38,Animation,Dr. HOD 38,Block L
+39,Design,Dr. HOD 39,Block M
+40,Hospitality,Dr. HOD 40,Block N
+41,Agriculture,Dr. HOD 41,Block O
+42,Veterinary Science,Dr. HOD 42,Block P
+43,Environmental Science,Dr. HOD 43,Block Q
+44,Food Technology,Dr. HOD 44,Block R
+45,Pharmacy,Dr. HOD 45,Block S
+46,Nursing,Dr. HOD 46,Block T
+47,Medicine,Dr. HOD 47,Block U
+48,Dentistry,Dr. HOD 48,Block V
+49,Education,Dr. HOD 49,Block W
+50,Research,Dr. HOD 50,Block X
