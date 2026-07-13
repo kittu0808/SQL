@@ -33,22 +33,6 @@ SQL
 ├── README.md
 ```
 
----
-
-## Progress
-
-| Status | Topic |
-|---------|-------|
-| ✅ | SELECT |
-| ⏳ | WHERE |
-| ⏳ | ORDER BY |
-| ⏳ | LIMIT |
-| ⏳ | GROUP BY |
-| ⏳ | JOINS |
-| ⏳ | CTE |
-| ⏳ | Window Functions |
-
----
 
 ## Datasets
 
