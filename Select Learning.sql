@@ -4,7 +4,6 @@
 ====================================================
 Topic       : SELECT
 Session     : Day 1
-Date        : 12-07-2026
 Database    : student_management
 
 Objective:
@@ -51,18 +50,3 @@ SELECT student_id AS ID,
        course,
        percentage
 FROM students;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

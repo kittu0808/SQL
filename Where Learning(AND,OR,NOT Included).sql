@@ -4,7 +4,6 @@
 ====================================================
 Topic       : WHERE Clause
 Session     : Day 3
-Date        : 13-07-2026
 Database    : student_management
 
 Objective:
@@ -67,6 +66,7 @@ FROM
 WHERE
     percentage = 75;
     
+    
 -- Q6 Prepare a list of students who did NOT score 75%
 
 SELECT 
@@ -96,7 +96,6 @@ FROM
 WHERE
     city = 'Bengaluru'
     OR city = 'Mysuru';
-    
 -- Q9 Business Problem : The Admissions Office says: "Show the names of students who are NOT from Bengaluru."
 
 SELECT 
@@ -114,7 +113,24 @@ FROM
     students
 WHERE
     city != 'Bengaluru';
+    
+
+    
+
+    
+
+    
 
 
+
+
+
+
+
+
+
+    
+
+    
 
 
